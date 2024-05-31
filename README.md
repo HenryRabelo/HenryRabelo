@@ -1,11 +1,11 @@
 ## CyberSec Admin & Tech Enthusiast
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![Chromium Badge](https://img.shields.io/badge/Chromium-dodgerblue?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
 [![BurpSuite Badge](https://img.shields.io/badge/BurpSuite_Pro-royalblue?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![VS Code Badge](https://img.shields.io/badge/VS_Code-dodgerblue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-dodgerblue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-mediumaquamarine?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![Github Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/)
-[![Docker Badge](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)](https://docker.com/)
+[![Github Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com)
+[![Docker Badge](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)](https://docker.com)
 
 <img src="assets/imgs/workstation.png" alt="Workstation" width="350" height="350" align="right"/>
 
@@ -27,7 +27,13 @@ I try to harness the best of the tools in my field and I try to aways be practic
 
 I use containers which have the main tools of my workflow installed, so I can have a highly reproducible and clean work environment. Security best practices such as 2FA are a must, and compartmentalization of the tools I use further secures my environment.
 
-#### Experience & Certifications 🧑🏼‍🎓
+#### Languages I speak:
+- English
+- Portuguese
+- I am currently learning German! 🇩🇪
+  - Ich spreche nur ein bisschen jetzt, aber Ich lerne schnell! Ich finde Ich lerne gern deustch. 🤓
+
+#### Experience & Courses 🧑🏼‍🎓
 ###### Networking:
 - ![Cisco CyberOps Badge](https://img.shields.io/badge/Cisco_CyberOps_Associate-dodgerblue?logo=cisco&logoColor=white)
 - ![Cisco CCNA Badge](https://img.shields.io/badge/Cisco_CCNA_I-dodgerblue?logo=cisco&logoColor=white)
@@ -38,12 +44,6 @@ I use containers which have the main tools of my workflow installed, so I can ha
 - Bachelor of Computer Science
 - I've been working in CyberSecurity for a couple of years now
 - Experience with close-to-hardware languages, such as C / C++
-
-#### Languages I speak:
-- English
-- Portuguese
-- I am currently learning German! 🇩🇪
-  - Ich spreche nur ein bisschen jetzt, aber Ich lerne schnell! Ich finde Ich lerne gern deustch. 🤓
 
 <!--
 #### Contact me
