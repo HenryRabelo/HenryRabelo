@@ -1,11 +1,11 @@
 ## CyberSec Admin & Tech Enthusiast
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Chromium Badge](https://img.shields.io/badge/Chromium-white?logo=googlechrome)
-![BurpSuite Badge](https://img.shields.io/badge/BurpSuite_Pro-white?logo=burpsuite&logoColor=royalblue)
-![VS Code Badge](https://img.shields.io/badge/VS_Code-white?logo=visualstudiocode&logoColor=blue)
-![Android Studio Badge](https://img.shields.io/badge/Android_Studio-dodgerblue?logo=androidstudio)
-![Github Badge](https://img.shields.io/badge/Github-black?logo=github)
-![Docker Badge](https://img.shields.io/badge/Docker-white?logo=docker)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Chromium Badge](https://img.shields.io/badge/Chromium-dodgerblue?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
+[![BurpSuite Badge](https://img.shields.io/badge/BurpSuite_Pro-royalblue?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-dodgerblue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-mediumaquamarine?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Github Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/)
+[![Docker Badge](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)](https://docker.com/)
 
 <img src="assets/imgs/workstation.png" alt="Workstation" width="350" height="350" align="right"/>
 
@@ -26,12 +26,6 @@
 I try to harness the best of the tools in my field and I try to aways be practical when it comes to my choices. I've used just about every mainstream OS, but I tend to champion Linux systems, because of their flexibility and ease of use.
 
 I use containers which have the main tools of my workflow installed, so I can have a highly reproducible and clean work environment. Security best practices such as 2FA are a must, and compartmentalization of the tools I use further secures my environment.
-
-Here's a quick run-down some of the technologies I've used in various different assignments:
-
-| Ubuntu | Chromium | BurpSuite | VSCode | Android<br/>Studio | GitHub | Docker |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/3X/f/9/f94871ad7dea3ae2a193f2a099aa669a57cf23ea.png" alt="Ubuntu" width="50" height="50"/>](https://ubuntu.com) | [<img src="https://www.chromium.org/_assets/icon-chromium-96.png" alt="Chromium" width="50" height="50"/>](https://chromium.org/Home) | [<img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" alt="BurpSuite" width="60" height="60"/>](https://portswigger.net/burp) | [<img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VSCode" width="65" height="65"/>](https://code.visualstudio.com/) | [<img src="https://developer.android.com/studio/images/android-studio-stable.svg" alt="Android Studio" width="50" height="50"/>](https://developer.android.com/studio) | [<img src="https://assets.dryicons.com/uploads/icon/svg/8308/d2fb96a4-96bf-4a9c-b182-e95f925c54ff.svg" alt="GitHub" width="50" height="50"/>](https://github.com/) | [<img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="Docker" width="50" height="50"/>](https://docker.com/) |
 
 #### Experience & Certifications 🧑🏼‍🎓
 ###### Networking:
