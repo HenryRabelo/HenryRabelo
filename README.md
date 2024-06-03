@@ -1,11 +1,11 @@
 ## CyberSec Admin & Tech Enthusiast
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
-[![Chromium Badge](https://img.shields.io/badge/Chromium-dodgerblue?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
-[![BurpSuite Pro Badge](https://img.shields.io/badge/BurpSuite_Pro-royalblue?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![VS Code Badge](https://img.shields.io/badge/VS_Code-dodgerblue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-limegreen?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com)
-[![Docker Badge](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)](https://docker.com)
+[![Chromium Badge](https://img.shields.io/badge/Chromium-4285F4?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
+[![BurpSuite Pro Badge](https://img.shields.io/badge/BurpSuite_Pro-5B4FFF?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-0098FF?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-171515?logo=github)](https://github.com)
+[![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white)](https://docker.com)
 
 <img src="assets/imgs/workstation.png" alt="Workstation" width="350" height="350" align="right"/>
 
