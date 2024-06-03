@@ -35,11 +35,11 @@ I use containers which have the main tools of my workflow installed, so I can ha
 
 #### Experience & Courses 🧑🏼‍🎓
 ###### Networking:
-- ![Cisco CyberOps Badge](https://img.shields.io/badge/Cisco_CyberOps_Associate-dodgerblue?logo=cisco&logoColor=white)
-- ![Cisco CCNA Badge](https://img.shields.io/badge/Cisco_CCNA_I-dodgerblue?logo=cisco&logoColor=white)
+- ![Cisco CyberOps Badge](https://img.shields.io/badge/Cisco_CyberOps_Associate-00BCEB?logo=cisco&logoColor=white)
+- ![Cisco CCNA Badge](https://img.shields.io/badge/Cisco_CCNA_I-00BCEB?logo=cisco&logoColor=white)
 ###### System administration:
-- ![RH Admin I Badge](https://img.shields.io/badge/Red_Hat_System_Administration_I_(RH124)-firebrick?logo=redhat)
-- ![RH Admin II Badge](https://img.shields.io/badge/Red_Hat_System_Administration_II_(RH134)-firebrick?logo=redhat)
+- ![RH Admin I Badge](https://img.shields.io/badge/Red_Hat_System_Administration_I_(RH124)-EE0000?logo=redhat)
+- ![RH Admin II Badge](https://img.shields.io/badge/Red_Hat_System_Administration_II_(RH134)-EE0000?logo=redhat)
 ###### Relevant experiences:
 - Bachelor of Computer Science
 - I've been working in CyberSecurity for a couple of years now
