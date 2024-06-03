@@ -1,10 +1,10 @@
 ## CyberSec Admin & Tech Enthusiast
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![Chromium Badge](https://img.shields.io/badge/Chromium-dodgerblue?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
-[![BurpSuite Badge](https://img.shields.io/badge/BurpSuite_Pro-royalblue?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![BurpSuite Pro Badge](https://img.shields.io/badge/BurpSuite_Pro-royalblue?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-dodgerblue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-mediumaquamarine?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![Github Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-limegreen?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-dodgerblue?logo=docker&logoColor=white)](https://docker.com)
 
 <img src="assets/imgs/workstation.png" alt="Workstation" width="350" height="350" align="right"/>
@@ -54,6 +54,6 @@ I use containers which have the main tools of my workflow installed, so I can ha
 ##
 ###### URL Hash (SHA512):
 ```
-c590142a9670232acc9db7207619107f393d476e072833f95afb2e684a17707b1e55fc05ab9403406daf20e1ab180fc6165abe9302e6febe38dcdfa5039f8a98
+7631774f0b25efec2c0935f2d25d16f663d15b4d7164d707a7a618bdf58e4b461144617e2e4bd3bbb8ec8eea62f5a902caed4ae28114867218a73c44e249023d
 ```
 
