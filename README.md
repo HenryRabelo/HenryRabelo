@@ -18,7 +18,7 @@
   #### Who am I?
   I work in CyberSecurity, which I find pretty neat. I've always loved puzzles, and I do see my job as a big puzzle challange, each one with its unique quirks.
 
-  I like researching security and privacy concepts, and what can be done to better secure a system. There is no perfecly secure system, but I strive to have a good balance between Security, Privacy & Convenience.
+  I like researching security and privacy concepts, and what can be done to better secure a system. There is no perfectly secure system, but I strive to have a good balance between Security, Privacy & Convenience.
 
 </p>
 
