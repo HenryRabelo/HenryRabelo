@@ -3,7 +3,7 @@
 [![Chromium Badge](https://img.shields.io/badge/Chromium-4285F4?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
 [![BurpSuite Pro Badge](https://img.shields.io/badge/BurpSuite_Pro-5B4FFF?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-0098FF?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-34A853?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-171515?logo=github)](https://github.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white)](https://docker.com)
 
@@ -35,8 +35,8 @@ I use containers which have the main tools of my workflow installed, so I can ha
 
 #### Experience & Courses 🧑🏼‍🎓
 ###### Networking:
-- ![Cisco CyberOps Badge](https://img.shields.io/badge/Cisco_CyberOps_Associate-00BCEB?logo=cisco&logoColor=white)
-- ![Cisco CCNA Badge](https://img.shields.io/badge/Cisco_CCNA_I-00BCEB?logo=cisco&logoColor=white)
+- ![Cisco CyberOps Badge](https://img.shields.io/badge/Cisco_CyberOps_Associate-1BA0D7?logo=cisco&logoColor=white)
+- ![Cisco CCNA Badge](https://img.shields.io/badge/Cisco_CCNA_I-1BA0D7?logo=cisco&logoColor=white)
 ###### System administration:
 - ![RH Admin I Badge](https://img.shields.io/badge/Red_Hat_System_Administration_I_(RH124)-EE0000?logo=redhat)
 - ![RH Admin II Badge](https://img.shields.io/badge/Red_Hat_System_Administration_II_(RH134)-EE0000?logo=redhat)
