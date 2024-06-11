@@ -16,16 +16,16 @@
   I sometimes upload projects made to demonstrate concepts used at my job or that were made during college.
 
   #### Who am I?
-  I work in CyberSecurity, which I find pretty neat. I've always loved puzzles, and I do see my job as a big puzzle challange, each one with its unique quirks.
+  I work in CyberSecurity, which I find pretty neat. I've always loved puzzles, and I do see my job as a big puzzle challenge, each one with its unique quirks.
 
   I like researching security and privacy concepts, and what can be done to better secure a system. There is no perfectly secure system, but I strive to have a good balance between Security, Privacy & Convenience.
 
 </p>
 
 #### My workflow 💻
-I try to harness the best of the tools in my field and I try to aways be practical when it comes to my choices. I've used just about every mainstream OS, but I tend to champion Linux systems, because of their flexibility and ease of use.
+I try to harness the best of the tools in my field and I try to always be practical when it comes to my choices. I've used just about every mainstream OS, but I tend to champion Linux systems, because of their flexibility and ease of use.
 
-I use containers which have the main tools of my workflow installed, so I can have a highly reproducible and clean work environment. Security best practices such as 2FA are a must, and compartmentalization of the tools I use further secures my environment.
+I use containers that have the main tools of my workflow installed, so I can have a highly reproducible and clean work environment. Security best practices such as 2FA are a must, and compartmentalization of the tools I use further secures my environment.
 
 #### Languages I speak:
 - English
