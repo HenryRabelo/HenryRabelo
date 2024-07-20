@@ -1,7 +1,7 @@
 ## CyberSec Admin & Tech Enthusiast
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/desktop)
 [![Chromium Badge](https://img.shields.io/badge/Chromium-4285F4?logo=googlechrome&logoColor=white)](https://chromium.org/Home)
-[![BurpSuite Pro Badge](https://img.shields.io/badge/BurpSuite_Pro-5B4FFF?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Burp Suite Pro Badge](https://img.shields.io/badge/Burp_Suite_Pro-5B4FFF?logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-34A853?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-171515?logo=github)](https://github.com)
