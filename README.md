@@ -7,7 +7,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-171515?logo=github)](https://github.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white)](https://docker.com)
 
-<img src="assets/imgs/workstation.png" alt="Workstation" height="350" align="right"/>
+<img src=".assets/imgs/workstation.png" alt="Workstation" height="350" align="right"/>
 
 <p align="left">
 
