@@ -7,7 +7,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-171515?logo=github)](https://github.com)
 [![Docker Badge](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white)](https://docker.com)
 
-<img src=".assets/imgs/workstation.png" alt="Workstation" height="350" align="right"/>
+<img src=".assets/images/workstation.png" alt="Workstation" height="350" align="right"/>
 
 <p align="left">
 
@@ -47,12 +47,6 @@ I use containers that have the main tools of my workflow installed, so I can hav
 - Bachelor of Computer Science
 - I've been working in CyberSecurity for a couple of years now
 - Experience with close-to-hardware languages, such as C / C++
-
-<!--
-#### Contact me
-
-[In-Progress]
--->
 
 ##
 [<img src="https://tryhackme.com/img/badges/windowsprivesc.svg" alt="TryHackMe Windows Privilege Escalation Badge" height="65"/>](https://tryhackme.com/HenryRabelo/badges/win-priv-esc) [<img src="https://tryhackme.com/img/badges/linuxprivesc.svg" alt="TryHackMe Linux Privilege Escalation Badge" height="60"/>](https://tryhackme.com/HenryRabelo/badges/linux-privesc) [<img src="https://tryhackme.com/img/badges/docker.svg" alt="TryHackMe Docker Escape Badge" height="65"/>](https://tryhackme.com/HenryRabelo/badges/docker) [<img src="https://tryhackme.com/img/badges/burpsuite.svg" alt="TryHackMe Burp Suite Badge" height="65"/>](https://tryhackme.com/HenryRabelo/badges/burped) [<img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="TryHackMe OWASP Top 10 Badge" height="65"/>](https://tryhackme.com/HenryRabelo/badges/owasp-10) [<img src="https://tryhackme-badges.s3.amazonaws.com/HenryRabelo.png" alt="TryHackMe Social Badge"/>](https://tryhackme.com/p/HenryRabelo)
